@@ -1,0 +1,1 @@
+    def test_post_details_views(self):
